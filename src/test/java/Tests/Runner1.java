@@ -17,5 +17,6 @@ public class Runner1 {
 		System.out.println(r.location.country);
 		System.out.println(r.current.humidity);
 		System.out.println(r.current.condition.code);
+		System.out.println("Hi this project is pulled form git");
 	}
 }
